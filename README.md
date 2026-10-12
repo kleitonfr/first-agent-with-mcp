@@ -4,6 +4,8 @@ Projeto de estudo que demonstra como conectar um agente de IA criado com **Pytho
 
 Diferente do projeto anterior, em que as ferramentas eram definidas diretamente no agente, aqui elas ficam em um servidor MCP separado. O agente consulta esse servidor e usa as ferramentas disponíveis conforme a pergunta do usuário.
 
+![Execução do agente MCP no terminal](image.png)
+
 ## Como funciona
 
 O projeto possui dois componentes principais:
